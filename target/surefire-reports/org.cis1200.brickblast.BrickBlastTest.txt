@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.cis1200.brickblast.BrickBlastTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.145 s - in org.cis1200.brickblast.BrickBlastTest
